@@ -16,7 +16,7 @@ Hi, I'm **Rohit Rathod**, a passionate **Full-Stack Java Developer** with expert
                 <strong>Languages</strong>
             </td>
             <td>
-                <a href="https://www.java.com/">
+                <a href="https://www.java.com/" style="text-decoration: none;">
                     <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white"/>
                 </a>
                 &emsp;
