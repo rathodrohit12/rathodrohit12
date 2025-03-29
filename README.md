@@ -1,6 +1,6 @@
 # Hi there, I'm Rohit Rathod 👋
 
-![Banner](assets/banner.png) <!-- Optional: Add a banner image -->
+![Banner](assets/banner2.png) <!-- Optional: Add a banner image -->
 
 ## About Me 🚀
 Hi, I'm **Rohit Rathod**, a passionate **Full-Stack Java Developer** with expertise in **Spring, Spring Boot, and Microservices**. I love building scalable, secure, and efficient web applications. This repository showcases my projects, skills, and achievements.
