@@ -1,15 +1,11 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/rathodrohit12/rathodrohit12/main/assets/banner.png" alt="Rohit Rathod Banner" />
-</p>
-
 # Hi, I'm Rohit Rathod 👋
 
-<div align="right">
+<div align="center">
   
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=7E3AF2&center=true&vCenter=true&width=600&lines=Java+Developer;AI+%26+ML+Enthusiast" alt="Typing Animation" />
 
   <img src="https://komarev.com/ghpvc/?username=rathodrohit12&label=Profile+Views&color=7E3AF2&style=flat" alt="Profile views" />
-
+  
   <br><br>
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding gif" />
 </div>
@@ -111,25 +107,31 @@ Hi, I'm **Rohit Rathod**, a passionate **Java Developer** with a strong foundati
 
 ## <img src="https://cdn-icons-png.flaticon.com/512/3487/3487585.png" width="28"> GitHub Stats & Contributions
 
-<div align="left">
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=rathodrohit12&theme=material-palenight&show_icons=true&hide_border=true&count_private=true" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rathodrohit12&layout=compact&theme=material-palenight&hide_border=true&langs_count=8" />
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://streak-stats.demolab.com?user=rathodrohit12&theme=material-palenight&hide_border=true" />
+    </td>
+    <td>
+      <img src="https://github-profile-trophy.vercel.app/?username=rathodrohit12&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
+    </td>
+  </tr>
+</table>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rathodrohit12&theme=material-palenight&show_icons=true&hide_border=true&count_private=true)
-  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rathodrohit12&layout=compact&theme=material-palenight&hide_border=true&langs_count=8)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=rathodrohit12&theme=material-palenight&hide_border=true)
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=rathodrohit12&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-![Contribution Snake](https://raw.githubusercontent.com/rathodrohit12/rathodrohit12/output/github-contribution-grid-snake.svg)
-
-</div>
 
 ---
 
 ## <img src="https://cdn-icons-png.flaticon.com/512/2128/2128373.png" width="28"> Last Update & Visitor Count
 
-<div align="left">
+<div align="center">
 
 ![Last Commit](https://img.shields.io/github/last-commit/rathodrohit12/rathodrohit12?logo=github&label=Last+Update&color=7E3AF2)
 
@@ -137,7 +139,7 @@ Hi, I'm **Rohit Rathod**, a passionate **Java Developer** with a strong foundati
 
 [![](https://visitcount.itsvg.in/api?id=rathodrohit12&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<sub><i>"First, solve the problem. Then, write the code."</i></sub>
+<sub><i>"Success is the sum of small efforts, repeated day in and day out."</i></sub>
 
 </div>
 
@@ -145,7 +147,7 @@ Hi, I'm **Rohit Rathod**, a passionate **Java Developer** with a strong foundati
 
 ## <img src="https://cdn-icons-png.flaticon.com/512/3059/3059518.png" width="28"> Connect with Me
 
-<div align="left">
+<div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rohitrathod12)
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/rohitrathod_12)
