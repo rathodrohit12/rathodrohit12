@@ -20,7 +20,7 @@ Hi, I'm <strong>Rohit Rathod</strong>, a passionate <strong>Java Developer</stro
       </ul>
     </td>
     <td>
-      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="470" alt="Coding gif" />
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding gif" />
     </td>
   </tr>
 </table>
