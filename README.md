@@ -1,8 +1,5 @@
-# Hi, I'm Rohit Rathod 👋
-
 <div align="center">
-  
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=7E3AF2&center=true&vCenter=true&width=600&lines=Java+Developer;AI+%26+ML+Enthusiast" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=7E3AF2&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Rohit+Rathod+%F0%9F%91%8B;Java+Developer;AI+%26+ML+Enthusiast" alt="Typing Animation" />Animation" />
 
   <img src="https://komarev.com/ghpvc/?username=rathodrohit12&label=Profile+Views&color=7E3AF2&style=flat" alt="Profile views" />
   
