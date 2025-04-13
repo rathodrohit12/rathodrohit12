@@ -116,7 +116,7 @@ Hi, I'm <strong>Rohit Rathod</strong>, a passionate <strong>Java Developer</stro
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rathodrohit12&layout=compact&theme=material-palenight&hide_border=true&langs_count=8" width="36%" />
   
   <!-- Middle Row: Contributor Stats -->
-  <img src="https://github-contributor-stats.vercel.app/api?username=rathodrohit12&limit=5&theme=material-palenight&combine_all_yearly_contributions=true" width="35%" style="margin-top: 20px;" />
+  <img src="https://github-contributor-stats.vercel.app/api?username=rathodrohit12&limit=5&theme=material-palenight&hide_border=true&combine_all_yearly_contributions=true" width="35%" style="margin-top: 20px;" />
   
   <!-- Bottom Row: Streak Stats -->
   <img src="https://streak-stats.demolab.com?user=rathodrohit12&theme=material-palenight&hide_border=true" width="49%" style="margin-top: 20px;" />
