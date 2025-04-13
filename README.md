@@ -1,17 +1,12 @@
 <div align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=7E3AF2&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Rohit+Rathod+%F0%9F%91%8B;Java+Developer;AI+%26+ML+Enthusiast" alt="Typing Animation" />
   <img src="https://komarev.com/ghpvc/?username=rathodrohit12&label=Profile+Views&color=7E3AF2&style=flat" alt="Profile views" />
-  
-  <br><br>
 </div>
 
 ---
 
 ## <img src="https://cdn-icons-png.flaticon.com/512/3281/3281289.png" width="28"> About Me
-
-<p>
 Hi, I'm <strong>Rohit Rathod</strong>, a passionate <strong>Java Developer</strong> with a strong foundation in <strong>Spring, Spring Boot, and Microservices</strong>. I enjoy building scalable and secure web apps, contributing to open-source, and mentoring fellow developers.
-</p>
 
 <table>
   <tr>
@@ -29,6 +24,7 @@ Hi, I'm <strong>Rohit Rathod</strong>, a passionate <strong>Java Developer</stro
     </td>
   </tr>
 </table>
+
 ---
 
 ## <img src="https://cdn-icons-png.flaticon.com/512/3281/3281306.png" width="28"> Skills
@@ -114,40 +110,25 @@ Hi, I'm <strong>Rohit Rathod</strong>, a passionate <strong>Java Developer</stro
 
 ## <img src="https://cdn-icons-png.flaticon.com/512/3487/3487585.png" width="28"> GitHub Stats & Contributions
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=rathodrohit12&theme=material-palenight&show_icons=true&hide_border=true&count_private=true" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rathodrohit12&layout=compact&theme=material-palenight&hide_border=true&langs_count=8" />
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <img src="https://streak-stats.demolab.com?user=rathodrohit12&theme=material-palenight&hide_border=true" />
-    </td>
-    <td>
-      <img src="https://github-profile-trophy.vercel.app/?username=rathodrohit12&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
-    </td>
-  </tr>
-</table>
-
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=rathodrohit12&theme=material-palenight&show_icons=true&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rathodrohit12&layout=compact&theme=material-palenight&hide_border=true&langs_count=8" width="36%" />
+  <br/>
+  <img src="https://streak-stats.demolab.com?user=rathodrohit12&theme=material-palenight&hide_border=true" width="48%" />
+</div>
 
 ---
 
 ## <img src="https://cdn-icons-png.flaticon.com/512/2128/2128373.png" width="28"> Last Update & Visitor Count
 
 <div align="center">
-
+  
 ![Last Commit](https://img.shields.io/github/last-commit/rathodrohit12/rathodrohit12?logo=github&label=Last+Update&color=7E3AF2)
-
+  
 ![Profile Visitors](https://visitor-badge.laobi.icu/badge?page_id=rathodrohit12)
 
 [![](https://visitcount.itsvg.in/api?id=rathodrohit12&icon=0&color=0)](https://visitcount.itsvg.in)
-
 <sub><i>"Success is the sum of small efforts, repeated day in and day out."</i></sub>
-
 </div>
 
 ---
@@ -155,7 +136,7 @@ Hi, I'm <strong>Rohit Rathod</strong>, a passionate <strong>Java Developer</stro
 ## <img src="https://cdn-icons-png.flaticon.com/512/3059/3059518.png" width="28"> Connect with Me
 
 <div align="center">
-
+  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rohitrathod12)
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/rohitrathod_12)
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/28736861)
