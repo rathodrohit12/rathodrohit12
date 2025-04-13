@@ -27,7 +27,7 @@ Hi, I'm <strong>Rohit Rathod</strong>, a passionate <strong>Java Developer</stro
 
 ---
 
-## <img src="https://cdn-icons-png.flaticon.com/512/3281/3281306.png" width="28"> Skills
+## <img src="https://cdn-icons-png.flaticon.com/512/3281/3281306.png" width="28"> Technical Skills
 
 <table>
   <tr><th>Domain</th><th>Technologies</th></tr>
@@ -111,10 +111,15 @@ Hi, I'm <strong>Rohit Rathod</strong>, a passionate <strong>Java Developer</stro
 ## <img src="https://cdn-icons-png.flaticon.com/512/3487/3487585.png" width="28"> GitHub Stats & Contributions
 
 <div align="left">
+  <!-- Top Row: Stats and Languages -->
   <img src="https://github-readme-stats.vercel.app/api?username=rathodrohit12&theme=material-palenight&show_icons=true&hide_border=true&count_private=true" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rathodrohit12&layout=compact&theme=material-palenight&hide_border=true&langs_count=8" width="36%" />
-  <br/>
-  <img src="https://streak-stats.demolab.com?user=rathodrohit12&theme=material-palenight&hide_border=true" width="48%" />
+  
+  <!-- Middle Row: Contributor Stats -->
+  <img src="https://github-contributor-stats.vercel.app/api?username=rathodrohit12&limit=5&theme=material-palenight&combine_all_yearly_contributions=true" width="35%" style="margin-top: 20px;" />
+  
+  <!-- Bottom Row: Streak Stats -->
+  <img src="https://streak-stats.demolab.com?user=rathodrohit12&theme=material-palenight&hide_border=true" width="49%" style="margin-top: 20px;" />
 </div>
 
 ---
