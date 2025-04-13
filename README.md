@@ -3,22 +3,32 @@
   <img src="https://komarev.com/ghpvc/?username=rathodrohit12&label=Profile+Views&color=7E3AF2&style=flat" alt="Profile views" />
   
   <br><br>
-  ---
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding gif" />
 </div>
 
 ---
 
 ## <img src="https://cdn-icons-png.flaticon.com/512/3281/3281289.png" width="28"> About Me
 
-Hi, I'm **Rohit Rathod**, a passionate **Java Developer** with a strong foundation in **Spring, Spring Boot, and Microservices**. I enjoy building scalable and secure web apps, contributing to open-source, and mentoring fellow developers.
+<p>
+Hi, I'm <strong>Rohit Rathod</strong>, a passionate <strong>Java Developer</strong> with a strong foundation in <strong>Spring, Spring Boot, and Microservices</strong>. I enjoy building scalable and secure web apps, contributing to open-source, and mentoring fellow developers.
+</p>
 
-- 🔧 Experienced in **Enterprise Java & Spring ecosystems**
-- 🏗️ Skilled at designing **scalable microservices**
-- 🔐 Focused on **secure, performant backend solutions**
-- 👨‍💻 Enthusiastic about **AI/ML and DevOps**
-- 📚 Constantly learning and sharing knowledge
-
+<table>
+  <tr>
+    <td>
+      <ul>
+        <li>🔧 Experienced in <strong>Enterprise Java & Spring ecosystems</strong></li>
+        <li>🏗️ Skilled at designing <strong>scalable microservices</strong></li>
+        <li>🔐 Focused on <strong>secure, performant backend solutions</strong></li>
+        <li>👨‍💻 Enthusiastic about <strong>AI/ML and DevOps</strong></li>
+        <li>📚 Constantly learning and sharing knowledge</li>
+      </ul>
+    </td>
+    <td>
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding gif" />
+    </td>
+  </tr>
+</table>
 ---
 
 ## <img src="https://cdn-icons-png.flaticon.com/512/3281/3281306.png" width="28"> Skills
